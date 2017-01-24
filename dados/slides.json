@@ -1,0 +1,92 @@
+{
+  "slides": [
+    {"imagem"      : "img/entrada.jpg",
+     "legenda"     : "<h1>MARBURG</h1><h2>zu Fuß</h2>",
+     "mapa"        : {
+                       "lat" : "50.110922",
+                       "lon" : "8.682127"
+                     },
+     "mapaEstado"  : "escondido"
+    },
+    {"imagem"      : "img/frankfurt.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>100kms Norden von Frankfurt</h2>",
+      "mapa"       : {
+                      "lat" : "50.810387",
+                      "lon" : "8.774552"
+                    },
+      "mapaEstado" : "full"
+    },
+    {"imagem"       : "img/turismo.jpg",
+      "legenda"     : "<h1>MARBURG</h1><h2>der Marburg Stadt und Land Tourismus</h2>",
+      "mapa"        : {
+                      "lat" : "50.810387",
+                      "lon" : "8.774552"
+                    },
+      "mapaEstado"  : "normal"
+    },
+    {"imagem"     : "img/rio.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>der Lahn</h2>",
+      "mapa"       : {
+        "lat" : "50.807613",
+        "lon" : "8.772755"
+      },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/universidadevelha.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>die Alte Universität</h2>",
+      "mapa"       : {
+                      "lat" : "50.807996",
+                      "lon" : "8.771553"
+                    },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/camara.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>das Rathaus</h2>",
+      "mapa"       : {
+                      "lat" : "50.808683",
+                      "lon" : "8.770664"
+                    },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/almoco.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>Mittagessen bei Marktplatz</h2>",
+      "mapa"       : {
+        "lat" : "50.809197",
+        "lon" : "8.770445"
+      },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/stmary.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>die Marienkirche</h2>",
+      "mapa"       : {
+                      "lat" : "50.80901",
+                      "lon" : "8.768026"
+                    },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/castelo.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>das Schloss</h2>",
+      "mapa"       : {
+                      "lat" : "50.810131",
+                      "lon" : "8.767128"
+                    },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/stelisabeth.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>die Elisabethkirche</h2>",
+      "mapa"       : {
+                      "lat" : "50.814889",
+                      "lon" : "8.770022"
+                    },
+      "mapaEstado" : "normal"
+    },
+    {"imagem"     : "img/turismo.jpg",
+      "legenda"    : "<h1>MARBURG</h1><h2>der Marburg Stadt und Land Tourismus</h2>",
+      "mapa"       : {
+                        "lat" : "50.110922",
+                        "lon" : "8.682127"
+                      },
+      "mapaEstado" : "normal"
+    }
+  ]
+}
